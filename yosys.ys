@@ -1,0 +1,2 @@
+read_verilog -defer -sv build/sv2v_out.v
+hierarchy -top soc_domain -check
